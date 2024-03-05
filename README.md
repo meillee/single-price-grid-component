@@ -28,7 +28,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: (https://single-price-grid-component-fawn-eta.vercel.app/)
+- Live Site URL: (https://meillee.github.io/single-price-grid-component/)
 
 ## My process
 
